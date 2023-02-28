@@ -1,0 +1,29 @@
+Akun 1 :
+email 	: admin@gmail.com
+password 	: admin
+
+-----------------------------------------------
+
+Akun 2 :
+email 	: yonatan28@gmail.com
+password 	: yonatan28
+
+-----------------------------------------------
+
+Akun 3 :
+email 	: steffikristianti@gmail.com
+password 	: steffisteffi
+
+-----------------------------------------------
+
+Akun 4 :
+email 	: dewafabian@gmail.com
+password 	: dewadewa
+
+-----------------------------------------------
+
+Akun 5 :
+email 	: malvinadrianus@gmail.com
+password 	: malvinmalvin
+
+-----------------------------------------------

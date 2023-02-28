@@ -1,0 +1,18 @@
+.col-md-9{
+			padding: 3%;
+			border-top-right-radius: 0.5rem;
+			border-bottom-right-radius: 0.5rem;
+		 }
+.contact-form label	{
+						font-weight:800;
+					}
+.contact-form button{
+						
+						color:#0066FF;
+						font-weight: 20;
+						width: 10%;
+					}
+.contact-form button:focus{
+							box-shadow:none;
+						  }
+
